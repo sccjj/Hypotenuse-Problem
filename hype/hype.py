@@ -5,7 +5,10 @@ def sum(a,b):
     return a+b
 
 def squareroot(b):
-    return b**(0.5)
+    if b>=0:
+        return b**(0.5)
+    else:
+        return 'UNDEFINED'
 
 def hypotenuse(a,b):
     c = squareroot(sum(square(a),square(b)))
