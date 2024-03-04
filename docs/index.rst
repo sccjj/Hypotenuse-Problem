@@ -9,6 +9,9 @@ Welcome to Hypotenuse_Problem's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   dependencies
+   usage
+   functions
 
 
 
