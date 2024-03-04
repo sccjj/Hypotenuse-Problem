@@ -10,7 +10,6 @@ Welcome to Hypotenuse_Problem's documentation!
    :maxdepth: 2
    :caption: Contents:
    dependencies
-   usage
    functions
 
 
