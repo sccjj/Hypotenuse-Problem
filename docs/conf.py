@@ -8,7 +8,7 @@
 
 project = 'Hypotenuse_Problem'
 copyright = '2024, Chris'
-author = 'Chris'
+author = 'Chris and Luke'
 release = '2024'
 
 # -- General configuration ---------------------------------------------------
